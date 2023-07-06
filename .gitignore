@@ -4,4 +4,4 @@ __pycache__
 /options/
 /gfpgan/
 /CodeFormer/
-.pth
+*.pth
